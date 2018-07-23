@@ -1,2 +1,2 @@
 # python_storage
-Python script to pring the storage usage of selected folders
+Python script to print the storage usage of selected folders
